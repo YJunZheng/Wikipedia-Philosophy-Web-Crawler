@@ -15,5 +15,4 @@ a loop occurs, or when the page is a referral/help/blank page
 <h3>Preview</h3>
 <img src="https://github.com/JunZheng-dev/Wikipedia-Philosophy-Web-Crawler/blob/master/preview/preview.gif"/>
 
-<b>Contributor:</b> https://github.com/ammar-s847</br>
-Shoutout to Billy Bishop
+<b>Idea from:</b> https://github.com/ammar-s847 and https://github.com/AliNaqvi01</br>
